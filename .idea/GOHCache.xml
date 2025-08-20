@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="AuthException">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/exception.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BackException">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/exception.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ConfirmException">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/exception.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DbException">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/exception.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/exception.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1755671954181" />
+              <option name="schema">
+                <list>
+                  <option value="AuthException" />
+                  <option value="DbException" />
+                  <option value="ConfirmException" />
+                  <option value="BackException" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="auth_exception" value="AuthException" />
+        <entry key="back_exception" value="BackException" />
+        <entry key="confirm_exception" value="ConfirmException" />
+        <entry key="db_exception" value="DbException" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1755671303619" />
+  </component>
+</project>
