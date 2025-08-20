@@ -1,4 +1,4 @@
-package http_error
+package exception
 
 // AuthException 身份验证异常
 type AuthException struct {
